@@ -1,0 +1,29 @@
+{
+  "name": "testlabaratoryofsystems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arthur472/testLabaratoryOfSystems.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arthur472/testLabaratoryOfSystems/issues"
+  },
+  "homepage": "https://github.com/Arthur472/testLabaratoryOfSystems#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
+    "babel-jest": "^29.7.0"
+  }
+}
